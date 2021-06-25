@@ -41,7 +41,7 @@ Sizing a circuit requires machine learning models trained for mapping
 electrical characteristics of Primitive Devices to corresponding geometric
 values. For this example, trained models are given in the `models` directory of
 this repository. These models were trained (as shown in
-`notebooks/1_model_training.ipynb`) with the
+`notebooks/model_training.ipynb`) with the
 [precept](https://github.com/electronics-and-drives/precept) library on the
 data generated in the previous section.
 
@@ -49,7 +49,11 @@ data generated in the previous section.
 
 #### Symmetrical Amplifier
 
+See `notebooks/sym_sizing.ipynb`.
+
 #### Miller Operational Amplifier
+
+See `notebooks/sym_sizing.ipynb`.
 
 ## Citing
 
