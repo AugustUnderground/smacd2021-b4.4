@@ -1,4 +1,6 @@
 notebooks/.ipynb_checkpoints
+notebooks/*.out
 data
 models/custom
 lib
+*.out
