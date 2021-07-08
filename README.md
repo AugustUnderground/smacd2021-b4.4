@@ -29,11 +29,19 @@ $ cd notebooks
 $ jupyter lab
 ```
 
-### Generating Data
+### Transistor Simulation Models
 
-The data for training the models is obtained by characterizing 90nm and 45nm
+The data for training the models is obtained by characterizing 130nm, 90nm and 45nm
 [PTM](http://ptm.asu.edu/) devices, as seen in
 [pyrdict](https://github.com/AugustUnderground/pyrdict).
+
+For convenience, you can run
+
+```bash
+$ ./ptm-setup.sh
+```
+
+which will create a folder called `./lib` containing these 3 libraries.
 
 ### Training Models
 
