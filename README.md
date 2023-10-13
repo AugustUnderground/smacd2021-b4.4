@@ -61,7 +61,7 @@ See `notebooks/sym_sizing.ipynb`.
 
 #### Miller Operational Amplifier
 
-See `notebooks/sym_sizing.ipynb`.
+See `notebooks/moa_sizing.ipynb`.
 
 ## Citing
 
